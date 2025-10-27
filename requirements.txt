@@ -1,0 +1,7 @@
+fastapi[standard]>=0.120.0
+uvicorn[standard]>=0.30.0
+sqlalchemy>=2.0.44
+python-dotenv>=1.0.0
+requests>=2.32.5
+psycopg2-binary>=2.9.11
+openai-agents>=0.4.1
